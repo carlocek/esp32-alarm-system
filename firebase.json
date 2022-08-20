@@ -1,0 +1,1549 @@
+{
+  "Board:" : {
+    "Livello acqua" : 2,
+    "Oscurita'" : 21,
+    "Temperatura" : 21,
+    "Umidita'" : 71,
+    "timestamp" : ""
+  },
+  "Board:Wed Apr 28 14:25:51 2021" : {
+    "Livello acqua" : 51,
+    "Oscurita'" : 75,
+    "Temperatura" : 18,
+    "Umidita'" : 58,
+    "timestamp" : "Wed Apr 28 14:25:51 2021"
+  },
+  "Board:Wed Apr 28 14:25:55 2021" : {
+    "Livello acqua" : 26,
+    "Oscurita'" : 17,
+    "Temperatura" : 16,
+    "Umidita'" : 68,
+    "timestamp" : "Wed Apr 28 14:25:55 2021"
+  },
+  "Board:Wed Apr 28 14:26:00 2021" : {
+    "Livello acqua" : 81,
+    "Oscurita'" : 15,
+    "Temperatura" : 22,
+    "Umidita'" : 59,
+    "timestamp" : "Wed Apr 28 14:26:00 2021"
+  },
+  "Board:Wed Apr 28 14:26:07 2021" : {
+    "Livello acqua" : 77,
+    "Oscurita'" : 50,
+    "Temperatura" : 23,
+    "Umidita'" : 50,
+    "timestamp" : "Wed Apr 28 14:26:07 2021"
+  },
+  "Board:Wed Apr 28 14:26:11 2021" : {
+    "Livello acqua" : 37,
+    "Oscurita'" : 42,
+    "Temperatura" : 19,
+    "Umidita'" : 57,
+    "timestamp" : "Wed Apr 28 14:26:11 2021"
+  },
+  "Board:Wed Apr 28 14:26:16 2021" : {
+    "Livello acqua" : 25,
+    "Oscurita'" : 56,
+    "Temperatura" : 23,
+    "Umidita'" : 78,
+    "timestamp" : "Wed Apr 28 14:26:16 2021"
+  },
+  "Board:Wed Apr 28 14:26:21 2021" : {
+    "Livello acqua" : 28,
+    "Oscurita'" : 51,
+    "Temperatura" : 23,
+    "Umidita'" : 74,
+    "timestamp" : "Wed Apr 28 14:26:21 2021"
+  },
+  "Board:Wed Apr 28 14:26:26 2021" : {
+    "Livello acqua" : 25,
+    "Oscurita'" : 19,
+    "Temperatura" : 19,
+    "Umidita'" : 74,
+    "timestamp" : "Wed Apr 28 14:26:26 2021"
+  },
+  "Board:Wed Apr 28 14:26:31 2021" : {
+    "Livello acqua" : 44,
+    "Oscurita'" : 14,
+    "Temperatura" : 20,
+    "Umidita'" : 67,
+    "timestamp" : "Wed Apr 28 14:26:31 2021"
+  },
+  "Board:Wed Apr 28 14:26:36 2021" : {
+    "Livello acqua" : 39,
+    "Oscurita'" : 38,
+    "Temperatura" : 21,
+    "Umidita'" : 68,
+    "timestamp" : "Wed Apr 28 14:26:36 2021"
+  },
+  "Board:Wed Apr 28 14:26:42 2021" : {
+    "Livello acqua" : 29,
+    "Oscurita'" : 86,
+    "Temperatura" : 20,
+    "Umidita'" : 52,
+    "timestamp" : "Wed Apr 28 14:26:42 2021"
+  },
+  "Board:Wed Apr 28 14:26:47 2021" : {
+    "Livello acqua" : 99,
+    "Oscurita'" : 29,
+    "Temperatura" : 22,
+    "Umidita'" : 76,
+    "timestamp" : "Wed Apr 28 14:26:47 2021"
+  },
+  "Board:Wed Apr 28 14:26:54 2021" : {
+    "Livello acqua" : 89,
+    "Oscurita'" : 35,
+    "Temperatura" : 20,
+    "Umidita'" : 52,
+    "timestamp" : "Wed Apr 28 14:26:54 2021"
+  },
+  "Board:Wed Apr 28 14:26:58 2021" : {
+    "Livello acqua" : 13,
+    "Oscurita'" : 41,
+    "Temperatura" : 21,
+    "Umidita'" : 75,
+    "timestamp" : "Wed Apr 28 14:26:58 2021"
+  },
+  "Board:Wed Apr 28 14:27:03 2021" : {
+    "Livello acqua" : 20,
+    "Oscurita'" : 2,
+    "Temperatura" : 15,
+    "Umidita'" : 57,
+    "timestamp" : "Wed Apr 28 14:27:03 2021"
+  },
+  "Board:Wed Apr 28 14:27:09 2021" : {
+    "Livello acqua" : 83,
+    "Oscurita'" : 25,
+    "Temperatura" : 21,
+    "Umidita'" : 68,
+    "timestamp" : "Wed Apr 28 14:27:09 2021"
+  },
+  "Board:Wed Apr 28 14:27:14 2021" : {
+    "Livello acqua" : 49,
+    "Oscurita'" : 55,
+    "Temperatura" : 19,
+    "Umidita'" : 67,
+    "timestamp" : "Wed Apr 28 14:27:14 2021"
+  },
+  "Board:Wed Apr 28 14:27:20 2021" : {
+    "Livello acqua" : 53,
+    "Oscurita'" : 47,
+    "Temperatura" : 17,
+    "Umidita'" : 55,
+    "timestamp" : "Wed Apr 28 14:27:20 2021"
+  },
+  "Board:Wed Apr 28 14:27:24 2021" : {
+    "Livello acqua" : 89,
+    "Oscurita'" : 22,
+    "Temperatura" : 21,
+    "Umidita'" : 75,
+    "timestamp" : "Wed Apr 28 14:27:24 2021"
+  },
+  "Board:Wed Apr 28 14:27:29 2021" : {
+    "Livello acqua" : 11,
+    "Oscurita'" : 95,
+    "Temperatura" : 22,
+    "Umidita'" : 77,
+    "timestamp" : "Wed Apr 28 14:27:29 2021"
+  },
+  "Board:Wed Apr 28 14:27:46 2021" : {
+    "Livello acqua" : 30,
+    "Oscurita'" : 2,
+    "Temperatura" : 15,
+    "Umidita'" : 79,
+    "timestamp" : "Wed Apr 28 14:27:46 2021"
+  },
+  "Board:Wed Apr 28 14:27:51 2021" : {
+    "Livello acqua" : 97,
+    "Oscurita'" : 21,
+    "Temperatura" : 16,
+    "Umidita'" : 73,
+    "timestamp" : "Wed Apr 28 14:27:51 2021"
+  },
+  "Board:Wed Apr 28 14:27:56 2021" : {
+    "Livello acqua" : 46,
+    "Oscurita'" : 39,
+    "Temperatura" : 16,
+    "Umidita'" : 76,
+    "timestamp" : "Wed Apr 28 14:27:56 2021"
+  },
+  "Board:Wed Apr 28 14:28:02 2021" : {
+    "Livello acqua" : 97,
+    "Oscurita'" : 44,
+    "Temperatura" : 23,
+    "Umidita'" : 78,
+    "timestamp" : "Wed Apr 28 14:28:02 2021"
+  },
+  "Board:Wed Apr 28 14:28:07 2021" : {
+    "Livello acqua" : 7,
+    "Oscurita'" : 6,
+    "Temperatura" : 21,
+    "Umidita'" : 63,
+    "timestamp" : "Wed Apr 28 14:28:07 2021"
+  },
+  "Board:Wed Apr 28 14:28:12 2021" : {
+    "Livello acqua" : 90,
+    "Oscurita'" : 83,
+    "Temperatura" : 22,
+    "Umidita'" : 56,
+    "timestamp" : "Wed Apr 28 14:28:12 2021"
+  },
+  "Board:Wed Apr 28 14:28:17 2021" : {
+    "Livello acqua" : 74,
+    "Oscurita'" : 99,
+    "Temperatura" : 19,
+    "Umidita'" : 54,
+    "timestamp" : "Wed Apr 28 14:28:17 2021"
+  },
+  "Board:Wed Apr 28 14:28:22 2021" : {
+    "Livello acqua" : 37,
+    "Oscurita'" : 94,
+    "Temperatura" : 20,
+    "Umidita'" : 62,
+    "timestamp" : "Wed Apr 28 14:28:22 2021"
+  },
+  "Board:Wed Apr 28 14:28:27 2021" : {
+    "Livello acqua" : 66,
+    "Oscurita'" : 53,
+    "Temperatura" : 23,
+    "Umidita'" : 59,
+    "timestamp" : "Wed Apr 28 14:28:27 2021"
+  },
+  "Board:Wed Apr 28 14:28:32 2021" : {
+    "Livello acqua" : 29,
+    "Oscurita'" : 20,
+    "Temperatura" : 16,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 14:28:32 2021"
+  },
+  "Board:Wed Apr 28 14:28:38 2021" : {
+    "Livello acqua" : 52,
+    "Oscurita'" : 23,
+    "Temperatura" : 20,
+    "Umidita'" : 59,
+    "timestamp" : "Wed Apr 28 14:28:38 2021"
+  },
+  "Board:Wed Apr 28 14:28:43 2021" : {
+    "Livello acqua" : 36,
+    "Oscurita'" : 15,
+    "Temperatura" : 17,
+    "Umidita'" : 73,
+    "timestamp" : "Wed Apr 28 14:28:43 2021"
+  },
+  "Board:Wed Apr 28 14:28:48 2021" : {
+    "Livello acqua" : 71,
+    "Oscurita'" : 75,
+    "Temperatura" : 21,
+    "Umidita'" : 62,
+    "timestamp" : "Wed Apr 28 14:28:48 2021"
+  },
+  "Board:Wed Apr 28 14:28:53 2021" : {
+    "Livello acqua" : 31,
+    "Oscurita'" : 7,
+    "Temperatura" : 17,
+    "Umidita'" : 61,
+    "timestamp" : "Wed Apr 28 14:28:53 2021"
+  },
+  "Board:Wed Apr 28 14:28:58 2021" : {
+    "Livello acqua" : 23,
+    "Oscurita'" : 53,
+    "Temperatura" : 18,
+    "Umidita'" : 77,
+    "timestamp" : "Wed Apr 28 14:28:58 2021"
+  },
+  "Board:Wed Apr 28 14:29:03 2021" : {
+    "Livello acqua" : 19,
+    "Oscurita'" : 54,
+    "Temperatura" : 22,
+    "Umidita'" : 63,
+    "timestamp" : "Wed Apr 28 14:29:03 2021"
+  },
+  "Board:Wed Apr 28 14:29:09 2021" : {
+    "Livello acqua" : 2,
+    "Oscurita'" : 84,
+    "Temperatura" : 16,
+    "Umidita'" : 72,
+    "timestamp" : "Wed Apr 28 14:29:09 2021"
+  },
+  "Board:Wed Apr 28 14:29:14 2021" : {
+    "Livello acqua" : 63,
+    "Oscurita'" : 99,
+    "Temperatura" : 17,
+    "Umidita'" : 65,
+    "timestamp" : "Wed Apr 28 14:29:14 2021"
+  },
+  "Board:Wed Apr 28 14:29:20 2021" : {
+    "Livello acqua" : 72,
+    "Oscurita'" : 35,
+    "Temperatura" : 17,
+    "Umidita'" : 56,
+    "timestamp" : "Wed Apr 28 14:29:20 2021"
+  },
+  "Board:Wed Apr 28 14:29:24 2021" : {
+    "Livello acqua" : 88,
+    "Oscurita'" : 90,
+    "Temperatura" : 19,
+    "Umidita'" : 68,
+    "timestamp" : "Wed Apr 28 14:29:24 2021"
+  },
+  "Board:Wed Apr 28 14:29:36 2021" : {
+    "Livello acqua" : 5,
+    "Oscurita'" : 5,
+    "Temperatura" : 22,
+    "Umidita'" : 68,
+    "timestamp" : "Wed Apr 28 14:29:36 2021"
+  },
+  "Board:Wed Apr 28 14:29:41 2021" : {
+    "Livello acqua" : 30,
+    "Oscurita'" : 6,
+    "Temperatura" : 16,
+    "Umidita'" : 76,
+    "timestamp" : "Wed Apr 28 14:29:41 2021"
+  },
+  "Board:Wed Apr 28 14:29:47 2021" : {
+    "Livello acqua" : 84,
+    "Oscurita'" : 3,
+    "Temperatura" : 20,
+    "Umidita'" : 77,
+    "timestamp" : "Wed Apr 28 14:29:47 2021"
+  },
+  "Board:Wed Apr 28 14:29:52 2021" : {
+    "Livello acqua" : 35,
+    "Oscurita'" : 44,
+    "Temperatura" : 17,
+    "Umidita'" : 79,
+    "timestamp" : "Wed Apr 28 14:29:52 2021"
+  },
+  "Board:Wed Apr 28 14:29:57 2021" : {
+    "Livello acqua" : 25,
+    "Oscurita'" : 16,
+    "Temperatura" : 18,
+    "Umidita'" : 61,
+    "timestamp" : "Wed Apr 28 14:29:57 2021"
+  },
+  "Board:Wed Apr 28 14:42:27 2021" : {
+    "Livello acqua" : 49,
+    "Oscurita'" : 83,
+    "Temperatura" : 20,
+    "Umidita'" : 54,
+    "timestamp" : "Wed Apr 28 14:42:27 2021"
+  },
+  "Board:Wed Apr 28 14:42:32 2021" : {
+    "Livello acqua" : 65,
+    "Oscurita'" : 4,
+    "Temperatura" : 17,
+    "Umidita'" : 74,
+    "timestamp" : "Wed Apr 28 14:42:32 2021"
+  },
+  "Board:Wed Apr 28 14:42:37 2021" : {
+    "Livello acqua" : 64,
+    "Oscurita'" : 33,
+    "Temperatura" : 19,
+    "Umidita'" : 62,
+    "timestamp" : "Wed Apr 28 14:42:37 2021"
+  },
+  "Board:Wed Apr 28 14:42:42 2021" : {
+    "Livello acqua" : 26,
+    "Oscurita'" : 38,
+    "Temperatura" : 21,
+    "Umidita'" : 73,
+    "timestamp" : "Wed Apr 28 14:42:42 2021"
+  },
+  "Board:Wed Apr 28 14:42:47 2021" : {
+    "Livello acqua" : 86,
+    "Oscurita'" : 92,
+    "Temperatura" : 21,
+    "Umidita'" : 74,
+    "timestamp" : "Wed Apr 28 14:42:47 2021"
+  },
+  "Board:Wed Apr 28 14:42:54 2021" : {
+    "Livello acqua" : 75,
+    "Oscurita'" : 42,
+    "Temperatura" : 15,
+    "Umidita'" : 74,
+    "timestamp" : "Wed Apr 28 14:42:54 2021"
+  },
+  "Board:Wed Apr 28 14:42:58 2021" : {
+    "Livello acqua" : 80,
+    "Oscurita'" : 51,
+    "Temperatura" : 16,
+    "Umidita'" : 63,
+    "timestamp" : "Wed Apr 28 14:42:58 2021"
+  },
+  "Board:Wed Apr 28 14:43:03 2021" : {
+    "Livello acqua" : 46,
+    "Oscurita'" : 36,
+    "Temperatura" : 19,
+    "Umidita'" : 71,
+    "timestamp" : "Wed Apr 28 14:43:03 2021"
+  },
+  "Board:Wed Apr 28 14:43:09 2021" : {
+    "Livello acqua" : 44,
+    "Oscurita'" : 93,
+    "Temperatura" : 22,
+    "Umidita'" : 62,
+    "timestamp" : "Wed Apr 28 14:43:09 2021"
+  },
+  "Board:Wed Apr 28 14:43:15 2021" : {
+    "Livello acqua" : 82,
+    "Oscurita'" : 27,
+    "Temperatura" : 18,
+    "Umidita'" : 79,
+    "timestamp" : "Wed Apr 28 14:43:15 2021"
+  },
+  "Board:Wed Apr 28 14:43:21 2021" : {
+    "Livello acqua" : 51,
+    "Oscurita'" : 36,
+    "Temperatura" : 23,
+    "Umidita'" : 63,
+    "timestamp" : "Wed Apr 28 14:43:21 2021"
+  },
+  "Board:Wed Apr 28 14:47:00 2021" : {
+    "Livello acqua" : 56,
+    "Oscurita'" : 86,
+    "Temperatura" : 16,
+    "Umidita'" : 75,
+    "timestamp" : "Wed Apr 28 14:47:00 2021"
+  },
+  "Board:Wed Apr 28 14:47:06 2021" : {
+    "Livello acqua" : 84,
+    "Oscurita'" : 44,
+    "Temperatura" : 20,
+    "Umidita'" : 79,
+    "timestamp" : "Wed Apr 28 14:47:06 2021"
+  },
+  "Board:Wed Apr 28 14:47:10 2021" : {
+    "Livello acqua" : 45,
+    "Oscurita'" : 76,
+    "Temperatura" : 20,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 14:47:10 2021"
+  },
+  "Board:Wed Apr 28 14:47:15 2021" : {
+    "Livello acqua" : 51,
+    "Oscurita'" : 78,
+    "Temperatura" : 18,
+    "Umidita'" : 74,
+    "timestamp" : "Wed Apr 28 14:47:15 2021"
+  },
+  "Board:Wed Apr 28 14:47:22 2021" : {
+    "Livello acqua" : 61,
+    "Oscurita'" : 84,
+    "Temperatura" : 19,
+    "Umidita'" : 52,
+    "timestamp" : "Wed Apr 28 14:47:22 2021"
+  },
+  "Board:Wed Apr 28 14:47:27 2021" : {
+    "Livello acqua" : 4,
+    "Oscurita'" : 44,
+    "Temperatura" : 17,
+    "Umidita'" : 66,
+    "timestamp" : "Wed Apr 28 14:47:27 2021"
+  },
+  "Board:Wed Apr 28 14:47:34 2021" : {
+    "Livello acqua" : 76,
+    "Oscurita'" : 33,
+    "Temperatura" : 16,
+    "Umidita'" : 74,
+    "timestamp" : "Wed Apr 28 14:47:34 2021"
+  },
+  "Board:Wed Apr 28 14:47:38 2021" : {
+    "Livello acqua" : 21,
+    "Oscurita'" : 39,
+    "Temperatura" : 18,
+    "Umidita'" : 51,
+    "timestamp" : "Wed Apr 28 14:47:38 2021"
+  },
+  "Board:Wed Apr 28 14:47:43 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 78,
+    "Temperatura" : 15,
+    "Umidita'" : 51,
+    "timestamp" : "Wed Apr 28 14:47:43 2021"
+  },
+  "Board:Wed Apr 28 14:47:48 2021" : {
+    "Livello acqua" : 80,
+    "Oscurita'" : 61,
+    "Temperatura" : 15,
+    "Umidita'" : 67,
+    "timestamp" : "Wed Apr 28 14:47:48 2021"
+  },
+  "Board:Wed Apr 28 14:47:54 2021" : {
+    "Livello acqua" : 33,
+    "Oscurita'" : 6,
+    "Temperatura" : 20,
+    "Umidita'" : 57,
+    "timestamp" : "Wed Apr 28 14:47:54 2021"
+  },
+  "Board:Wed Apr 28 14:47:59 2021" : {
+    "Livello acqua" : 82,
+    "Oscurita'" : 37,
+    "Temperatura" : 18,
+    "Umidita'" : 67,
+    "timestamp" : "Wed Apr 28 14:47:59 2021"
+  },
+  "Board:Wed Apr 28 14:48:04 2021" : {
+    "Livello acqua" : 47,
+    "Oscurita'" : 39,
+    "Temperatura" : 21,
+    "Umidita'" : 55,
+    "timestamp" : "Wed Apr 28 14:48:04 2021"
+  },
+  "Board:Wed Apr 28 14:48:09 2021" : {
+    "Livello acqua" : 76,
+    "Oscurita'" : 50,
+    "Temperatura" : 15,
+    "Umidita'" : 78,
+    "timestamp" : "Wed Apr 28 14:48:09 2021"
+  },
+  "Board:Wed Apr 28 14:48:16 2021" : {
+    "Livello acqua" : 79,
+    "Oscurita'" : 64,
+    "Temperatura" : 19,
+    "Umidita'" : 75,
+    "timestamp" : "Wed Apr 28 14:48:16 2021"
+  },
+  "Board:Wed Apr 28 14:48:21 2021" : {
+    "Livello acqua" : 88,
+    "Oscurita'" : 52,
+    "Temperatura" : 16,
+    "Umidita'" : 58,
+    "timestamp" : "Wed Apr 28 14:48:21 2021"
+  },
+  "Board:Wed Apr 28 15:10:10 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 76,
+    "Temperatura" : 21,
+    "Umidita'" : 56,
+    "timestamp" : "Wed Apr 28 15:10:10 2021"
+  },
+  "Board:Wed Apr 28 15:10:15 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 80,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 15:10:15 2021"
+  },
+  "Board:Wed Apr 28 15:10:20 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 76,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 15:10:20 2021"
+  },
+  "Board:Wed Apr 28 15:10:25 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 75,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 15:10:25 2021"
+  },
+  "Board:Wed Apr 28 15:10:30 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 76,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 15:10:30 2021"
+  },
+  "Board:Wed Apr 28 15:10:35 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 76,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 15:10:35 2021"
+  },
+  "Board:Wed Apr 28 15:10:40 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 76,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 15:10:40 2021"
+  },
+  "Board:Wed Apr 28 15:10:45 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 75,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 15:10:45 2021"
+  },
+  "Board:Wed Apr 28 15:10:50 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 76,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 15:10:50 2021"
+  },
+  "Board:Wed Apr 28 15:16:19 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 75,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 15:16:19 2021"
+  },
+  "Board:Wed Apr 28 15:16:24 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 74,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 15:16:24 2021"
+  },
+  "Board:Wed Apr 28 15:16:29 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 74,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 15:16:29 2021"
+  },
+  "Board:Wed Apr 28 15:16:34 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 72,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 15:16:34 2021"
+  },
+  "Board:Wed Apr 28 15:16:39 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 72,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 15:16:39 2021"
+  },
+  "Board:Wed Apr 28 15:16:44 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 71,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 15:16:44 2021"
+  },
+  "Board:Wed Apr 28 15:16:49 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 71,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 15:16:49 2021"
+  },
+  "Board:Wed Apr 28 15:16:54 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 71,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 15:16:54 2021"
+  },
+  "Board:Wed Apr 28 15:16:59 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 72,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 15:16:59 2021"
+  },
+  "Board:Wed Apr 28 15:17:04 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 71,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 15:17:04 2021"
+  },
+  "Board:Wed Apr 28 15:17:09 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 71,
+    "Temperatura" : 22,
+    "Umidita'" : 52,
+    "timestamp" : "Wed Apr 28 15:17:09 2021"
+  },
+  "Board:Wed Apr 28 15:17:14 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 71,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 15:17:14 2021"
+  },
+  "Board:Wed Apr 28 15:17:19 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 71,
+    "Temperatura" : 22,
+    "Umidita'" : 52,
+    "timestamp" : "Wed Apr 28 15:17:19 2021"
+  },
+  "Board:Wed Apr 28 15:17:24 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 71,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 15:17:24 2021"
+  },
+  "Board:Wed Apr 28 15:17:29 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 71,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 15:17:29 2021"
+  },
+  "Board:Wed Apr 28 15:17:34 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 69,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 15:17:34 2021"
+  },
+  "Board:Wed Apr 28 15:17:39 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 70,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 15:17:39 2021"
+  },
+  "Board:Wed Apr 28 15:17:44 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 70,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 15:17:44 2021"
+  },
+  "Board:Wed Apr 28 15:17:49 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 70,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 15:17:49 2021"
+  },
+  "Board:Wed Apr 28 15:18:05 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 69,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 15:18:05 2021"
+  },
+  "Board:Wed Apr 28 15:18:10 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 69,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 15:18:10 2021"
+  },
+  "Board:Wed Apr 28 15:18:15 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 68,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 15:18:15 2021"
+  },
+  "Board:Wed Apr 28 15:18:20 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 68,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 15:18:20 2021"
+  },
+  "Board:Wed Apr 28 15:18:25 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 68,
+    "Temperatura" : 22,
+    "Umidita'" : 52,
+    "timestamp" : "Wed Apr 28 15:18:25 2021"
+  },
+  "Board:Wed Apr 28 15:18:30 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 68,
+    "Temperatura" : 22,
+    "Umidita'" : 52,
+    "timestamp" : "Wed Apr 28 15:18:30 2021"
+  },
+  "Board:Wed Apr 28 15:18:35 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 68,
+    "Temperatura" : 22,
+    "Umidita'" : 52,
+    "timestamp" : "Wed Apr 28 15:18:35 2021"
+  },
+  "Board:Wed Apr 28 15:18:40 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 67,
+    "Temperatura" : 22,
+    "Umidita'" : 52,
+    "timestamp" : "Wed Apr 28 15:18:40 2021"
+  },
+  "Board:Wed Apr 28 15:18:45 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 68,
+    "Temperatura" : 22,
+    "Umidita'" : 52,
+    "timestamp" : "Wed Apr 28 15:18:45 2021"
+  },
+  "Board:Wed Apr 28 15:18:50 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 67,
+    "Temperatura" : 22,
+    "Umidita'" : 52,
+    "timestamp" : "Wed Apr 28 15:18:50 2021"
+  },
+  "Board:Wed Apr 28 15:18:55 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 67,
+    "Temperatura" : 22,
+    "Umidita'" : 52,
+    "timestamp" : "Wed Apr 28 15:18:55 2021"
+  },
+  "Board:Wed Apr 28 15:19:22 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 67,
+    "Temperatura" : 22,
+    "Umidita'" : 52,
+    "timestamp" : "Wed Apr 28 15:19:22 2021"
+  },
+  "Board:Wed Apr 28 15:19:27 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 67,
+    "Temperatura" : 22,
+    "Umidita'" : 52,
+    "timestamp" : "Wed Apr 28 15:19:27 2021"
+  },
+  "Board:Wed Apr 28 15:19:32 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 66,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 15:19:32 2021"
+  },
+  "Board:Wed Apr 28 15:19:37 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 66,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 15:19:37 2021"
+  },
+  "Board:Wed Apr 28 15:19:42 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 67,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 15:19:42 2021"
+  },
+  "Board:Wed Apr 28 16:54:32 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 58,
+    "Temperatura" : 22,
+    "Umidita'" : 52,
+    "timestamp" : "Wed Apr 28 16:54:32 2021"
+  },
+  "Board:Wed Apr 28 16:54:37 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 58,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 16:54:37 2021"
+  },
+  "Board:Wed Apr 28 16:54:42 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 58,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 16:54:42 2021"
+  },
+  "Board:Wed Apr 28 16:54:47 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 58,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 16:54:47 2021"
+  },
+  "Board:Wed Apr 28 16:54:52 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 59,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 16:54:52 2021"
+  },
+  "Board:Wed Apr 28 16:54:57 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 59,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 16:54:57 2021"
+  },
+  "Board:Wed Apr 28 16:55:02 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 59,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 16:55:02 2021"
+  },
+  "Board:Wed Apr 28 16:55:07 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 59,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 16:55:07 2021"
+  },
+  "Board:Wed Apr 28 16:55:12 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 59,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 16:55:12 2021"
+  },
+  "Board:Wed Apr 28 16:55:17 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 59,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 16:55:17 2021"
+  },
+  "Board:Wed Apr 28 16:55:22 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 59,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 16:55:22 2021"
+  },
+  "Board:Wed Apr 28 16:55:27 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 61,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 16:55:27 2021"
+  },
+  "Board:Wed Apr 28 16:55:32 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 59,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 16:55:32 2021"
+  },
+  "Board:Wed Apr 28 16:55:37 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 59,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 16:55:37 2021"
+  },
+  "Board:Wed Apr 28 16:55:42 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 59,
+    "Temperatura" : 22,
+    "Umidita'" : 52,
+    "timestamp" : "Wed Apr 28 16:55:42 2021"
+  },
+  "Board:Wed Apr 28 16:55:47 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 59,
+    "Temperatura" : 22,
+    "Umidita'" : 52,
+    "timestamp" : "Wed Apr 28 16:55:47 2021"
+  },
+  "Board:Wed Apr 28 16:55:52 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 59,
+    "Temperatura" : 22,
+    "Umidita'" : 52,
+    "timestamp" : "Wed Apr 28 16:55:52 2021"
+  },
+  "Board:Wed Apr 28 16:55:57 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 58,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 16:55:57 2021"
+  },
+  "Board:Wed Apr 28 16:56:02 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 59,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 16:56:02 2021"
+  },
+  "Board:Wed Apr 28 16:56:18 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 58,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 16:56:18 2021"
+  },
+  "Board:Wed Apr 28 16:56:23 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 59,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 16:56:23 2021"
+  },
+  "Board:Wed Apr 28 16:56:28 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 58,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 16:56:28 2021"
+  },
+  "Board:Wed Apr 28 16:56:33 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 58,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 16:56:33 2021"
+  },
+  "Board:Wed Apr 28 16:56:38 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 58,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 16:56:38 2021"
+  },
+  "Board:Wed Apr 28 16:56:43 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 58,
+    "Temperatura" : 22,
+    "Umidita'" : 52,
+    "timestamp" : "Wed Apr 28 16:56:43 2021"
+  },
+  "Board:Wed Apr 28 16:56:48 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 58,
+    "Temperatura" : 22,
+    "Umidita'" : 52,
+    "timestamp" : "Wed Apr 28 16:56:48 2021"
+  },
+  "Board:Wed Apr 28 16:56:53 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 61,
+    "Temperatura" : 22,
+    "Umidita'" : 52,
+    "timestamp" : "Wed Apr 28 16:56:53 2021"
+  },
+  "Board:Wed Apr 28 16:56:58 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 58,
+    "Temperatura" : 22,
+    "Umidita'" : 52,
+    "timestamp" : "Wed Apr 28 16:56:58 2021"
+  },
+  "Board:Wed Apr 28 16:57:03 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 58,
+    "Temperatura" : 22,
+    "Umidita'" : 52,
+    "timestamp" : "Wed Apr 28 16:57:03 2021"
+  },
+  "Board:Wed Apr 28 16:57:08 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 58,
+    "Temperatura" : 22,
+    "Umidita'" : 52,
+    "timestamp" : "Wed Apr 28 16:57:08 2021"
+  },
+  "Board:Wed Apr 28 16:57:13 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 54,
+    "Temperatura" : 22,
+    "Umidita'" : 52,
+    "timestamp" : "Wed Apr 28 16:57:13 2021"
+  },
+  "Board:Wed Apr 28 16:57:18 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 52,
+    "Temperatura" : 22,
+    "Umidita'" : 52,
+    "timestamp" : "Wed Apr 28 16:57:18 2021"
+  },
+  "Board:Wed Apr 28 16:57:23 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 52,
+    "Temperatura" : 22,
+    "Umidita'" : 52,
+    "timestamp" : "Wed Apr 28 16:57:23 2021"
+  },
+  "Board:Wed Apr 28 16:57:28 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 53,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 16:57:28 2021"
+  },
+  "Board:Wed Apr 28 16:57:33 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 53,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 16:57:33 2021"
+  },
+  "Board:Wed Apr 28 18:46:31 2021" : {
+    "Livello acqua" : 37,
+    "Oscurita'" : 28,
+    "Temperatura" : 17,
+    "Umidita'" : 77,
+    "timestamp" : "Wed Apr 28 18:46:31 2021"
+  },
+  "Board:Wed Apr 28 18:46:36 2021" : {
+    "Livello acqua" : 24,
+    "Oscurita'" : 11,
+    "Temperatura" : 22,
+    "Umidita'" : 58,
+    "timestamp" : "Wed Apr 28 18:46:36 2021"
+  },
+  "Board:Wed Apr 28 18:46:41 2021" : {
+    "Livello acqua" : 63,
+    "Oscurita'" : 48,
+    "Temperatura" : 22,
+    "Umidita'" : 72,
+    "timestamp" : "Wed Apr 28 18:46:41 2021"
+  },
+  "Board:Wed Apr 28 18:46:47 2021" : {
+    "Livello acqua" : 22,
+    "Oscurita'" : 71,
+    "Temperatura" : 20,
+    "Umidita'" : 63,
+    "timestamp" : "Wed Apr 28 18:46:47 2021"
+  },
+  "Board:Wed Apr 28 18:46:52 2021" : {
+    "Livello acqua" : 10,
+    "Oscurita'" : 24,
+    "Temperatura" : 23,
+    "Umidita'" : 52,
+    "timestamp" : "Wed Apr 28 18:46:52 2021"
+  },
+  "Board:Wed Apr 28 18:46:59 2021" : {
+    "Livello acqua" : 91,
+    "Oscurita'" : 35,
+    "Temperatura" : 23,
+    "Umidita'" : 56,
+    "timestamp" : "Wed Apr 28 18:46:59 2021"
+  },
+  "Board:Wed Apr 28 18:47:03 2021" : {
+    "Livello acqua" : 49,
+    "Oscurita'" : 59,
+    "Temperatura" : 17,
+    "Umidita'" : 63,
+    "timestamp" : "Wed Apr 28 18:47:03 2021"
+  },
+  "Board:Wed Apr 28 18:47:10 2021" : {
+    "Livello acqua" : 76,
+    "Oscurita'" : 87,
+    "Temperatura" : 15,
+    "Umidita'" : 78,
+    "timestamp" : "Wed Apr 28 18:47:10 2021"
+  },
+  "Board:Wed Apr 28 18:47:17 2021" : {
+    "Livello acqua" : 12,
+    "Oscurita'" : 34,
+    "Temperatura" : 16,
+    "Umidita'" : 78,
+    "timestamp" : "Wed Apr 28 18:47:17 2021"
+  },
+  "Board:Wed Apr 28 18:47:24 2021" : {
+    "Livello acqua" : 85,
+    "Oscurita'" : 20,
+    "Temperatura" : 16,
+    "Umidita'" : 64,
+    "timestamp" : "Wed Apr 28 18:47:24 2021"
+  },
+  "Board:Wed Apr 28 18:47:31 2021" : {
+    "Livello acqua" : 42,
+    "Oscurita'" : 19,
+    "Temperatura" : 18,
+    "Umidita'" : 52,
+    "timestamp" : "Wed Apr 28 18:47:31 2021"
+  },
+  "Board:Wed Apr 28 18:47:37 2021" : {
+    "Livello acqua" : 60,
+    "Oscurita'" : 11,
+    "Temperatura" : 17,
+    "Umidita'" : 50,
+    "timestamp" : "Wed Apr 28 18:47:37 2021"
+  },
+  "Board:Wed Apr 28 18:47:41 2021" : {
+    "Livello acqua" : 32,
+    "Oscurita'" : 53,
+    "Temperatura" : 16,
+    "Umidita'" : 61,
+    "timestamp" : "Wed Apr 28 18:47:41 2021"
+  },
+  "Board:Wed Apr 28 18:47:46 2021" : {
+    "Livello acqua" : 87,
+    "Oscurita'" : 33,
+    "Temperatura" : 19,
+    "Umidita'" : 65,
+    "timestamp" : "Wed Apr 28 18:47:46 2021"
+  },
+  "Board:Wed Apr 28 18:47:53 2021" : {
+    "Livello acqua" : 74,
+    "Oscurita'" : 53,
+    "Temperatura" : 21,
+    "Umidita'" : 74,
+    "timestamp" : "Wed Apr 28 18:47:53 2021"
+  },
+  "Board:Wed Apr 28 18:47:57 2021" : {
+    "Livello acqua" : 40,
+    "Oscurita'" : 37,
+    "Temperatura" : 20,
+    "Umidita'" : 60,
+    "timestamp" : "Wed Apr 28 18:47:57 2021"
+  },
+  "Board:Wed Apr 28 18:48:04 2021" : {
+    "Livello acqua" : 80,
+    "Oscurita'" : 25,
+    "Temperatura" : 16,
+    "Umidita'" : 60,
+    "timestamp" : "Wed Apr 28 18:48:04 2021"
+  },
+  "Board:Wed Apr 28 18:48:09 2021" : {
+    "Livello acqua" : 65,
+    "Oscurita'" : 33,
+    "Temperatura" : 19,
+    "Umidita'" : 50,
+    "timestamp" : "Wed Apr 28 18:48:09 2021"
+  },
+  "Board:Wed Apr 28 18:48:14 2021" : {
+    "Livello acqua" : 48,
+    "Oscurita'" : 36,
+    "Temperatura" : 18,
+    "Umidita'" : 52,
+    "timestamp" : "Wed Apr 28 18:48:14 2021"
+  },
+  "Board:Wed Apr 28 18:48:31 2021" : {
+    "Livello acqua" : 73,
+    "Oscurita'" : 69,
+    "Temperatura" : 22,
+    "Umidita'" : 52,
+    "timestamp" : "Wed Apr 28 18:48:31 2021"
+  },
+  "Board:Wed Apr 28 18:48:37 2021" : {
+    "Livello acqua" : 65,
+    "Oscurita'" : 66,
+    "Temperatura" : 23,
+    "Umidita'" : 63,
+    "timestamp" : "Wed Apr 28 18:48:37 2021"
+  },
+  "Board:Wed Apr 28 18:48:41 2021" : {
+    "Livello acqua" : 23,
+    "Oscurita'" : 17,
+    "Temperatura" : 18,
+    "Umidita'" : 66,
+    "timestamp" : "Wed Apr 28 18:48:41 2021"
+  },
+  "Board:Wed Apr 28 18:48:47 2021" : {
+    "Livello acqua" : 54,
+    "Oscurita'" : 59,
+    "Temperatura" : 20,
+    "Umidita'" : 63,
+    "timestamp" : "Wed Apr 28 18:48:47 2021"
+  },
+  "Board:Wed Apr 28 18:48:51 2021" : {
+    "Livello acqua" : 95,
+    "Oscurita'" : 10,
+    "Temperatura" : 21,
+    "Umidita'" : 74,
+    "timestamp" : "Wed Apr 28 18:48:51 2021"
+  },
+  "Board:Wed Apr 28 18:48:57 2021" : {
+    "Livello acqua" : 27,
+    "Oscurita'" : 62,
+    "Temperatura" : 17,
+    "Umidita'" : 52,
+    "timestamp" : "Wed Apr 28 18:48:57 2021"
+  },
+  "Board:Wed Apr 28 18:49:03 2021" : {
+    "Livello acqua" : 77,
+    "Oscurita'" : 94,
+    "Temperatura" : 16,
+    "Umidita'" : 61,
+    "timestamp" : "Wed Apr 28 18:49:03 2021"
+  },
+  "Board:Wed Apr 28 18:49:07 2021" : {
+    "Livello acqua" : 50,
+    "Oscurita'" : 71,
+    "Temperatura" : 21,
+    "Umidita'" : 75,
+    "timestamp" : "Wed Apr 28 18:49:07 2021"
+  },
+  "Board:Wed Apr 28 18:49:13 2021" : {
+    "Livello acqua" : 15,
+    "Oscurita'" : 21,
+    "Temperatura" : 22,
+    "Umidita'" : 72,
+    "timestamp" : "Wed Apr 28 18:49:13 2021"
+  },
+  "Board:Wed Apr 28 18:49:18 2021" : {
+    "Livello acqua" : 4,
+    "Oscurita'" : 55,
+    "Temperatura" : 20,
+    "Umidita'" : 56,
+    "timestamp" : "Wed Apr 28 18:49:18 2021"
+  },
+  "Board:Wed Apr 28 18:49:25 2021" : {
+    "Livello acqua" : 93,
+    "Oscurita'" : 62,
+    "Temperatura" : 15,
+    "Umidita'" : 79,
+    "timestamp" : "Wed Apr 28 18:49:25 2021"
+  },
+  "Board:Wed Apr 28 18:49:29 2021" : {
+    "Livello acqua" : 37,
+    "Oscurita'" : 6,
+    "Temperatura" : 17,
+    "Umidita'" : 62,
+    "timestamp" : "Wed Apr 28 18:49:29 2021"
+  },
+  "Board:Wed Apr 28 18:49:36 2021" : {
+    "Livello acqua" : 76,
+    "Oscurita'" : 76,
+    "Temperatura" : 18,
+    "Umidita'" : 59,
+    "timestamp" : "Wed Apr 28 18:49:36 2021"
+  },
+  "Board:Wed Apr 28 18:49:42 2021" : {
+    "Livello acqua" : 57,
+    "Oscurita'" : 23,
+    "Temperatura" : 17,
+    "Umidita'" : 77,
+    "timestamp" : "Wed Apr 28 18:49:42 2021"
+  },
+  "Board:Wed Apr 28 18:49:46 2021" : {
+    "Livello acqua" : 46,
+    "Oscurita'" : 52,
+    "Temperatura" : 23,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 18:49:46 2021"
+  },
+  "Board:Wed Apr 28 18:49:52 2021" : {
+    "Livello acqua" : 54,
+    "Oscurita'" : 10,
+    "Temperatura" : 21,
+    "Umidita'" : 68,
+    "timestamp" : "Wed Apr 28 18:49:52 2021"
+  },
+  "Board:Wed Apr 28 18:49:56 2021" : {
+    "Livello acqua" : 70,
+    "Oscurita'" : 0,
+    "Temperatura" : 18,
+    "Umidita'" : 62,
+    "timestamp" : "Wed Apr 28 18:49:56 2021"
+  },
+  "Board:Wed Apr 28 18:50:01 2021" : {
+    "Livello acqua" : 49,
+    "Oscurita'" : 83,
+    "Temperatura" : 15,
+    "Umidita'" : 62,
+    "timestamp" : "Wed Apr 28 18:50:01 2021"
+  },
+  "Board:Wed Apr 28 18:50:06 2021" : {
+    "Livello acqua" : 85,
+    "Oscurita'" : 48,
+    "Temperatura" : 16,
+    "Umidita'" : 51,
+    "timestamp" : "Wed Apr 28 18:50:06 2021"
+  },
+  "Board:Wed Apr 28 18:50:11 2021" : {
+    "Livello acqua" : 76,
+    "Oscurita'" : 79,
+    "Temperatura" : 19,
+    "Umidita'" : 57,
+    "timestamp" : "Wed Apr 28 18:50:11 2021"
+  },
+  "Board:Wed Apr 28 18:50:24 2021" : {
+    "Livello acqua" : 96,
+    "Oscurita'" : 76,
+    "Temperatura" : 16,
+    "Umidita'" : 77,
+    "timestamp" : "Wed Apr 28 18:50:24 2021"
+  },
+  "Board:Wed Apr 28 18:50:29 2021" : {
+    "Livello acqua" : 85,
+    "Oscurita'" : 31,
+    "Temperatura" : 16,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 18:50:29 2021"
+  },
+  "Board:Wed Apr 28 18:50:33 2021" : {
+    "Livello acqua" : 76,
+    "Oscurita'" : 61,
+    "Temperatura" : 15,
+    "Umidita'" : 51,
+    "timestamp" : "Wed Apr 28 18:50:33 2021"
+  },
+  "Board:Wed Apr 28 18:50:38 2021" : {
+    "Livello acqua" : 21,
+    "Oscurita'" : 40,
+    "Temperatura" : 15,
+    "Umidita'" : 75,
+    "timestamp" : "Wed Apr 28 18:50:38 2021"
+  },
+  "Board:Wed Apr 28 18:50:45 2021" : {
+    "Livello acqua" : 60,
+    "Oscurita'" : 9,
+    "Temperatura" : 23,
+    "Umidita'" : 56,
+    "timestamp" : "Wed Apr 28 18:50:45 2021"
+  },
+  "Board:Wed Apr 28 18:50:49 2021" : {
+    "Livello acqua" : 34,
+    "Oscurita'" : 61,
+    "Temperatura" : 18,
+    "Umidita'" : 78,
+    "timestamp" : "Wed Apr 28 18:50:49 2021"
+  },
+  "Board:Wed Apr 28 18:50:54 2021" : {
+    "Livello acqua" : 92,
+    "Oscurita'" : 94,
+    "Temperatura" : 16,
+    "Umidita'" : 75,
+    "timestamp" : "Wed Apr 28 18:50:54 2021"
+  },
+  "Board:Wed Apr 28 18:50:59 2021" : {
+    "Livello acqua" : 16,
+    "Oscurita'" : 15,
+    "Temperatura" : 22,
+    "Umidita'" : 58,
+    "timestamp" : "Wed Apr 28 18:50:59 2021"
+  },
+  "Board:Wed Apr 28 18:51:04 2021" : {
+    "Livello acqua" : 57,
+    "Oscurita'" : 63,
+    "Temperatura" : 23,
+    "Umidita'" : 79,
+    "timestamp" : "Wed Apr 28 18:51:04 2021"
+  },
+  "Board:Wed Apr 28 18:51:10 2021" : {
+    "Livello acqua" : 41,
+    "Oscurita'" : 36,
+    "Temperatura" : 22,
+    "Umidita'" : 53,
+    "timestamp" : "Wed Apr 28 18:51:10 2021"
+  },
+  "Board:Wed Apr 28 18:51:16 2021" : {
+    "Livello acqua" : 59,
+    "Oscurita'" : 49,
+    "Temperatura" : 20,
+    "Umidita'" : 61,
+    "timestamp" : "Wed Apr 28 18:51:16 2021"
+  },
+  "Board:Wed Apr 28 18:51:20 2021" : {
+    "Livello acqua" : 83,
+    "Oscurita'" : 93,
+    "Temperatura" : 15,
+    "Umidita'" : 75,
+    "timestamp" : "Wed Apr 28 18:51:20 2021"
+  },
+  "Board:Wed Apr 28 18:51:26 2021" : {
+    "Livello acqua" : 1,
+    "Oscurita'" : 29,
+    "Temperatura" : 21,
+    "Umidita'" : 55,
+    "timestamp" : "Wed Apr 28 18:51:26 2021"
+  },
+  "Board:Wed Apr 28 18:51:31 2021" : {
+    "Livello acqua" : 42,
+    "Oscurita'" : 21,
+    "Temperatura" : 18,
+    "Umidita'" : 67,
+    "timestamp" : "Wed Apr 28 18:51:31 2021"
+  },
+  "Board:Wed Apr 28 18:51:37 2021" : {
+    "Livello acqua" : 34,
+    "Oscurita'" : 31,
+    "Temperatura" : 17,
+    "Umidita'" : 61,
+    "timestamp" : "Wed Apr 28 18:51:37 2021"
+  },
+  "Board:Wed Apr 28 18:51:42 2021" : {
+    "Livello acqua" : 8,
+    "Oscurita'" : 17,
+    "Temperatura" : 16,
+    "Umidita'" : 70,
+    "timestamp" : "Wed Apr 28 18:51:42 2021"
+  },
+  "Board:Wed Apr 28 18:51:48 2021" : {
+    "Livello acqua" : 0,
+    "Oscurita'" : 58,
+    "Temperatura" : 23,
+    "Umidita'" : 69,
+    "timestamp" : "Wed Apr 28 18:51:48 2021"
+  },
+  "Board:Wed Apr 28 18:51:54 2021" : {
+    "Livello acqua" : 50,
+    "Oscurita'" : 59,
+    "Temperatura" : 16,
+    "Umidita'" : 78,
+    "timestamp" : "Wed Apr 28 18:51:54 2021"
+  },
+  "Board:Wed Apr 28 18:51:59 2021" : {
+    "Livello acqua" : 42,
+    "Oscurita'" : 42,
+    "Temperatura" : 21,
+    "Umidita'" : 64,
+    "timestamp" : "Wed Apr 28 18:51:59 2021"
+  },
+  "Board:Wed Apr 28 18:52:05 2021" : {
+    "Livello acqua" : 82,
+    "Oscurita'" : 95,
+    "Temperatura" : 23,
+    "Umidita'" : 61,
+    "timestamp" : "Wed Apr 28 18:52:05 2021"
+  },
+  "Board:Wed Apr 28 18:52:16 2021" : {
+    "Livello acqua" : 17,
+    "Oscurita'" : 62,
+    "Temperatura" : 17,
+    "Umidita'" : 54,
+    "timestamp" : "Wed Apr 28 18:52:16 2021"
+  },
+  "Board:Wed Apr 28 18:52:21 2021" : {
+    "Livello acqua" : 10,
+    "Oscurita'" : 64,
+    "Temperatura" : 19,
+    "Umidita'" : 51,
+    "timestamp" : "Wed Apr 28 18:52:21 2021"
+  },
+  "Board:Wed Apr 28 18:52:27 2021" : {
+    "Livello acqua" : 27,
+    "Oscurita'" : 10,
+    "Temperatura" : 18,
+    "Umidita'" : 59,
+    "timestamp" : "Wed Apr 28 18:52:27 2021"
+  },
+  "Board:Wed Apr 28 18:52:33 2021" : {
+    "Livello acqua" : 83,
+    "Oscurita'" : 44,
+    "Temperatura" : 22,
+    "Umidita'" : 55,
+    "timestamp" : "Wed Apr 28 18:52:33 2021"
+  },
+  "Board:Wed Apr 28 18:52:37 2021" : {
+    "Livello acqua" : 63,
+    "Oscurita'" : 42,
+    "Temperatura" : 18,
+    "Umidita'" : 73,
+    "timestamp" : "Wed Apr 28 18:52:37 2021"
+  },
+  "Board:Wed Apr 28 18:52:43 2021" : {
+    "Livello acqua" : 59,
+    "Oscurita'" : 75,
+    "Temperatura" : 22,
+    "Umidita'" : 67,
+    "timestamp" : "Wed Apr 28 18:52:43 2021"
+  },
+  "Board:Wed Apr 28 18:52:48 2021" : {
+    "Livello acqua" : 15,
+    "Oscurita'" : 39,
+    "Temperatura" : 17,
+    "Umidita'" : 71,
+    "timestamp" : "Wed Apr 28 18:52:48 2021"
+  },
+  "Board:Wed Apr 28 18:52:54 2021" : {
+    "Livello acqua" : 50,
+    "Oscurita'" : 29,
+    "Temperatura" : 16,
+    "Umidita'" : 56,
+    "timestamp" : "Wed Apr 28 18:52:54 2021"
+  },
+  "Board:Wed Apr 28 18:52:59 2021" : {
+    "Livello acqua" : 48,
+    "Oscurita'" : 61,
+    "Temperatura" : 21,
+    "Umidita'" : 56,
+    "timestamp" : "Wed Apr 28 18:52:59 2021"
+  },
+  "Board:Wed Apr 28 18:53:04 2021" : {
+    "Livello acqua" : 15,
+    "Oscurita'" : 81,
+    "Temperatura" : 21,
+    "Umidita'" : 72,
+    "timestamp" : "Wed Apr 28 18:53:04 2021"
+  }
+}
